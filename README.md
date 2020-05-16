@@ -11,7 +11,7 @@ ESP32の処理　https://randomnerdtutorials.com/esp32-esp8266-plot-chart-web-se
   GPIO15 - Trig  
 
 ### 使い方
-.ino のファイルを、ESO32に書き込む  
+.ino のファイルを、ESP32に書き込む  
 spiffに、dataの中のデータを書き込む
 
 
